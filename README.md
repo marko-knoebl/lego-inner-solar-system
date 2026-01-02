@@ -163,7 +163,7 @@ relative to Earth (everything -0.0007):
 - Earth: error = 0
 - Venus: error = -0.0004
 
-This variant would could stay relatively accurate for up to a century (after 100 earth years, the other planets would be off by ~25°)
+This variant would stay relatively accurate for up to a century (after 100 earth years, the other planets would be off by ~25°)
 
 ## Notes on the stud.io model and rendering
 
