@@ -100,7 +100,7 @@ inserting the target speeds from above and solving for the transmission ratios, 
 
 ### Approximating ratios via transmissions
 
-These gear transmissions were found via a JavaScript program - see _approximate_ratio_run.js_
+These gear transmissions were found via a JavaScript program - see _scripts/output.txt_ for the results
 
 #### r1
 

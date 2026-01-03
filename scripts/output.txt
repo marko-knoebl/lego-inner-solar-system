@@ -1,0 +1,109 @@
+Absolute to Mars - 3 factors
+[
+  {
+    numerator: [ 8, 16, 24 ],
+    denominator: [ 20, 20, 60 ],
+    ratio: 0.128,
+    absError: -0.000051999999999996493,
+    relError: -0.0004060850279573649
+  },
+  {
+    numerator: [ 12, 16, 16 ],
+    denominator: [ 20, 20, 60 ],
+    ratio: 0.128,
+    absError: -0.000051999999999996493,
+    relError: -0.0004060850279573649
+  }
+]
+Mars to Earth - 3 factors - only gears from the set
+[
+  {
+    numerator: [ 8, 16, 24 ],
+    denominator: [ 20, 20, 60 ],
+    ratio: 0.128,
+    absError: -0.001357999999999998,
+    relError: -0.010497997804542417
+  },
+  {
+    numerator: [ 12, 16, 16 ],
+    denominator: [ 20, 20, 60 ],
+    ratio: 0.128,
+    absError: -0.001357999999999998,
+    relError: -0.010497997804542417
+  }
+]
+Mars to Earth - 3 factors
+[
+  {
+    numerator: [ 8, 20, 28 ],
+    denominator: [ 16, 36, 60 ],
+    ratio: 0.12962962962962962,
+    absError: 0.00027162962962962167,
+    relError: 0.002099828612297822
+  },
+  {
+    numerator: [ 8, 20, 28 ],
+    denominator: [ 24, 24, 60 ],
+    ratio: 0.12962962962962962,
+    absError: 0.00027162962962962167,
+    relError: 0.002099828612297822
+  },
+  {
+    numerator: [ 12, 20, 28 ],
+    denominator: [ 24, 36, 60 ],
+    ratio: 0.12962962962962962,
+    absError: 0.00027162962962962167,
+    relError: 0.002099828612297822
+  },
+  {
+    numerator: [ 20, 20, 28 ],
+    denominator: [ 36, 40, 60 ],
+    ratio: 0.12962962962962962,
+    absError: 0.00027162962962962167,
+    relError: 0.002099828612297822
+  }
+]
+Earth to Venus - 2 factors - 28 tooth turntable from the set
+[
+  {
+    numerator: [ 8, 8 ],
+    denominator: [ 12, 28 ],
+    ratio: 0.19047619047619047,
+    absError: -0.007965809523809542,
+    relError: -0.040141751866084506
+  },
+  {
+    numerator: [ 8, 16 ],
+    denominator: [ 24, 28 ],
+    ratio: 0.19047619047619047,
+    absError: -0.007965809523809542,
+    relError: -0.040141751866084506
+  },
+  {
+    numerator: [ 8, 24 ],
+    denominator: [ 28, 36 ],
+    ratio: 0.19047619047619047,
+    absError: -0.007965809523809542,
+    relError: -0.040141751866084506
+  }
+]
+Earth to Venus - 1 factor - 60 tooth turntable
+[
+  {
+    numerator: [ 12 ],
+    denominator: [ 60 ],
+    ratio: 0.2,
+    absError: 0.0015580000000000038,
+    relError: 0.007851160540611381
+  }
+]
+Earth to Venus - 3 factors - 60 tooth turntable
+[
+  {
+    numerator: [ 20, 20, 20 ],
+    denominator: [ 24, 28, 60 ],
+    ratio: 0.1984126984126984,
+    absError: -0.00002930158730160559,
+    relError: -0.00014765819383802617
+  }
+]
